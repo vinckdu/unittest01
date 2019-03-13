@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Automation" type="JupiterNotebook" factoryName="Jupyter Notebook" singleton="false">
+    <module name="Automation" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="D:\Programfiles\py\python.exe" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    <option name="additionalOptions" value="" />
+    <option name="ipnbHost" value="127.0.0.1" />
+    <option name="ipnbPort" value="8888" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="Automation" run_configuration_type="JupiterNotebook" />
+    </method>
+  </configuration>
+</component>
