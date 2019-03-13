@@ -42,7 +42,7 @@ class RavelloTest(unittest.TestCase):
         r = requests.post(url, cookies=cookies, headers=headers, data=json.dumps(data))
         print(r.status_code)
         print(r.text)
-        self.assertEqual(r.status_code, 490)
+        self.assertEqual(r.status_code, 400)
 
 
 if __name__ == "__main__":
