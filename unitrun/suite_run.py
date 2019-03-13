@@ -1,5 +1,5 @@
 import unittest
-case_path = r'C:\Users\VinckDU\PycharmProjects\Automation\unitrun'
+case_path = r'.'
 
 
 def get_allcase():
